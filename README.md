@@ -39,4 +39,5 @@ You can customize the setup by modifying the script before running it. The scrip
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. 
+Thanks
