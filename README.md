@@ -7,7 +7,7 @@ Privacy Pi is an all-in-one privacy solution that sets up a Raspberry Pi (or any
 To install Privacy Pi, run the following command:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/himucodes/privacy-pi/main/setup.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/SarthakHackss/privacy-pi/main/setup.sh | sudo bash
 ```
 
 This command will:
